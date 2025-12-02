@@ -1,16 +1,24 @@
-## Hi there 👋
+# 안녕하세요! SSAFY 14기 (구미 캠퍼스) 웹 프론트엔드/풀스택 지망생 임보경입니다. 🙋‍♀️
 
-<!--
-**qhrudlim/qhrudlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+비전공자(과학수사학 전공)로서 분석적 사고와 논리력을 바탕으로 SW 개발자로 커리어를 전환하고 있습니다.
+빠른 성장세를 통해 즉시 현장에 기여할 준비가 된 주니어 개발자입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 주요 역량 및 목표
+* **SW 기본기:** SSAFY 1학기 과정 중 알고리즘 문제 해결 능력 **IM 등급을 획득**하여 코딩 테스트 역량을 객관적으로 확보했습니다.
+* **주력 스택:** Vue.js/JavaScript, Python/Django 기초 학습을 완료했으며, 특히 Vue.js 컴포넌트 구조 숙달에 강점을 보입니다.
+* **단기 목표:** 2학기 관통 프로젝트에 **핵심 기여자**로 참여하여 실질적인 협업 경험 및 실무 역량을 쌓는 것입니다.
+
+## 💻 학습 기록 및 레포지토리 안내 (⭐면접관님 필독)
+
+> **이 레포지토리는 저의 꾸준한 학습 태도와 성실성을 보여드리기 위한 목적입니다.**
+
+* **주요 기록 위치:** 대부분의 학습 과정 및 프로젝트 기록 코드는 **SSAFY 내부 GitLab**에 저장되어 있습니다.
+* **접근 제한:** 해당 플랫폼의 특성상 **외부 공유(Public Access)**가 불가능합니다.
+* **대비:** 면접 시, **GitLab의 커밋 기록**을 바탕으로 프로젝트 구조, 아키텍처, 그리고 제가 기여한 내용에 대해 **상세히 설명**드릴 준비가 되어 있습니다.
+
+---
+
+### [Contact]
+* Email: I-elizabeth99@hanmail.net
