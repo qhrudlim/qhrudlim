@@ -44,5 +44,5 @@
 ---
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/qhrudlim
+- LinkedIn: [qhrudlim](www.linkedin.com/in/qhrudlim)
 - Email: qhrudlim@gmail.com
