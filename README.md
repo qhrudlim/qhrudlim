@@ -36,6 +36,11 @@
 ### BioTwin (SSAFY 특화 프로젝트)
 ※ 코드 비공개 (교육 과정 프로젝트)
 
+### JIPCHAK (SSAFY 자율 프로젝트)
+- GUIDE 컴포넌트 구현
+- 하드웨어 제작 참여
+- 오픈소스 프로젝트
+
 ---
 
 ## Algorithm Study
