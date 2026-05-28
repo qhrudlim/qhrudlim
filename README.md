@@ -20,7 +20,14 @@
 - Vue / React
 - JavaScript / TypeScript
 - HTML / CSS
+
+---
+
+## Tool
 - Git
+- Jira
+- figma
+- Mattermost
 
 ---
 
